@@ -22,8 +22,8 @@ body {
   position: relative;
   background-color: rgba(255, 255, 255, 0.8); }
 
-.logo {
-  margin: .5em; }
+.cls-1 {
+  fill: #9fb8a3; }
 
 nav ul {
   list-style: none;
@@ -111,7 +111,7 @@ td {
   font-weight: lighter;
   padding: .4em; }
 
-header {
+.tagline {
   margin-left: 1em;
   padding-top: .5em; }
 
