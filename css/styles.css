@@ -25,6 +25,14 @@ body {
 .cls-1 {
   fill: #9fb8a3; }
 
+.chefhat {
+  fill: #ffffff; }
+
+.svgtest {
+  width: 1.5em;
+  height: 1.5em;
+  margin-right: .5em; }
+
 nav ul {
   list-style: none;
   display: flex;
