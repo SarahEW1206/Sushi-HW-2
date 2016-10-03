@@ -25,13 +25,22 @@ body {
 .cls-1 {
   fill: #9fb8a3; }
 
-.chefhat {
-  fill: #ffffff; }
-
 .svgnavdiv {
   width: 1.5em;
   height: 1.5em;
   margin-right: .5em; }
+
+.chefhat {
+  fill: #ffffff; }
+
+.star {
+  fill: #ffffff; }
+
+.car {
+  fill: #ffffff; }
+
+.cuisine {
+  fill: #ffffff; }
 
 nav ul {
   list-style: none;
